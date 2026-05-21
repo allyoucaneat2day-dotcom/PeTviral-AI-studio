@@ -1,0 +1,6 @@
+{
+  "name": "PetViral AI",
+  "description": "Generador de guiones y contenido viral para mascotas impulsado por inteligencia artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
